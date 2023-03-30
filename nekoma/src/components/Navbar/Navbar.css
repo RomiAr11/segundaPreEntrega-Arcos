@@ -1,0 +1,14 @@
+nav div{
+    background-color: plum;
+    border-radius: 20%;
+    border-style: dotted black ;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+nav h1{
+font-size: large;
+color: rgb(183, 0, 255);
+
+}
